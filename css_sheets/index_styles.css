@@ -1,9 +1,9 @@
 
 body {
-    background-color: darkblue;
+    background-color: lightblue;
 }
 
-h1 { color: red; font-size: 3em; text-decoration: blue double underline; text-align:center; }
+h1 { color: darkred; font-size: 3em; text-decoration: darkblue underline; text-align:center; }
 
 p {
     font-family: verdana;
